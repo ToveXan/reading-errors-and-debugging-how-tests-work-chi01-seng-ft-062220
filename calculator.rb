@@ -1,3 +1,3 @@
 # Add your variables here
-first_variable = 3
-second_variable = 56
+first_number = 3
+second_number = 56
